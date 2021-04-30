@@ -1,2 +1,2 @@
-# Simula-es-Escalonamento-de-Processos
+# Simulacoes-Escalonamento-de-Processos
 Trabalho de Sistemas Operacionais
