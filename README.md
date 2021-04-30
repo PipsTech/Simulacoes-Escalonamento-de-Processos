@@ -1,2 +1,2 @@
 # Simulacoes-Escalonamento-de-Processos
-Trabalho de Sistemas Operacionais
+Trabalho Prático de Sistemas Operacionais da PUC MINAS 3° Período
