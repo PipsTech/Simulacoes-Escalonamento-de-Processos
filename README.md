@@ -1,2 +1,2 @@
 # Simulacoes-Escalonamento-de-Processos
-Trabalho FODA de Sistemas Operacionais
+Trabalho de Sistemas Operacionais
