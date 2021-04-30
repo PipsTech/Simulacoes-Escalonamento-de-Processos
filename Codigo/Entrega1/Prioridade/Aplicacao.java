@@ -1,6 +1,6 @@
 import java.io.IOException;
 
-public class trabpratico{
+public class Aplicacao{
 
     public static void main(String[]args) throws IOException{
         Prioridade p = new Prioridade();
