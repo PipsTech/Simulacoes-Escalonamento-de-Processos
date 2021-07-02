@@ -7,7 +7,7 @@ public class Aplicacao {
 
 	  public static void main(String[]args) throws IOException, InterruptedException{
 		 Prioridade p = new Prioridade();
-		  p.leArquivo("SO_20_DadosEmpacotadeira_2.txt");
+		  p.leArquivo("teste.txt");
 		  p.orgPrioridade();
 		
 		  
