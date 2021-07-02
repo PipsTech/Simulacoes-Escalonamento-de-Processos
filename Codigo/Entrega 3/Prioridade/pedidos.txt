@@ -1,0 +1,20 @@
+19
+Arthur Armanelli;1120;90;0;1
+Bruno Romie;320;0;0;1
+Ian Sousa;640;0;0;3
+Amanda Lima;560;0;0;4
+Isabella Lima;80;180;0;4
+Matthew Lima;80;0;0;2
+Mateus Carmo;640;240;0;1
+Maria Sousa;720;0;0;3
+Isabella Romie;240;0;0;3
+Maria Meira;640;0;0;2
+André Guelman;1280;90;0;2
+André Laine;720;0;0;2
+Túlio Sousa;1360;0;0;1
+Isabella Apolinario;1440;180;0;1
+André Santos;560;0;0;3
+André Lima;560;170;0;3
+Bruno Sousa;880;0;0;2
+Isabella Bolognani;720;0;0;4
+Rodrigo Rocha;400;0;0;4
