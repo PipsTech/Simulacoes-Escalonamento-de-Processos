@@ -1,0 +1,5 @@
+4
+Arthur Armanelli;1120;90;0;1
+Bruno Romie;320;0;0;2
+Ian Sousa;640;0;0;3
+Amanda Lima;560;0;0;4
