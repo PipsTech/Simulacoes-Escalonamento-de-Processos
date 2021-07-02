@@ -4,7 +4,7 @@ public class Aplicacao {
 
 	public static void main(String[]args) throws IOException, InterruptedException{
 		FCFS s = new FCFS();
-		s.leArquivo("texto.txt");
+		s.leArquivo("teste.txt");
 		s.orgFCFS();
 
 
